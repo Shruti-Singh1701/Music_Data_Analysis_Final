@@ -15,9 +15,6 @@ Conditional expressions (CASE WHEN): Evaluate conditions and return values based
 
 Sorting (ORDER BY): Arrange the result set based on column values.
 
-Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
-
 QUERIES
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
 Question Set 1 - Easy
@@ -35,5 +32,9 @@ totals
 5. Who is the best customer? The customer who has spent the most money will be 
 declared the best customer. Write a query that returns the person who has spent the 
 most money
+Schema- Music Store Database  
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+
+
 
 
