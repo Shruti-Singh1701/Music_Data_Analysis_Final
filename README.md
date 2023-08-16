@@ -1,4 +1,5 @@
 # SQL_Project_Music_Store_Analysis
+
 Data Analysis for Digital Music Store using SQL
 
 SQL Concept Used in This Case Study Analysis
@@ -16,8 +17,11 @@ Conditional expressions (CASE WHEN): Evaluate conditions and return values based
 Sorting (ORDER BY): Arrange the result set based on column values.
 
 QUERIES
+
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
+
 Question Set 1 - Easy
+
 1. Who is the senior most employee based on job title?
 
 2. Which countries have the most Invoices?
@@ -32,6 +36,7 @@ totals
 5. Who is the best customer? The customer who has spent the most money will be 
 declared the best customer. Write a query that returns the person who has spent the 
 most money
+
 Schema- Music Store Database  
 ![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
