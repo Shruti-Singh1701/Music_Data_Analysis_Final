@@ -20,7 +20,7 @@ QUERIES
 
 SQL PROJECT- MUSIC STORE DATA ANALYSIS
 
-Question Set 1 - Easy
+Question set
 
 1. Who is the senior most employee based on job title?
 
